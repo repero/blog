@@ -1,25 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "History of Repero"
 date:   2018-10-12 21:47:34 +0200
-categories: jekyll update
+categories: repero
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Repero was created out of the need for a simple system to handle Repairs and customer information.
 
-Jekyll also offers powerful support for code snippets:
+It was originally made for the needs of a Bicycle repair shop in Iceland, [Hjolasprettur](https://hjolasprettur.is) which has been using the system since 2017.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Now the system has been modified so it can handle repairs for any kind of repair shop such as a:
+* Mobile repair shop
+* Jewelry repair shop
+* Computer repair shop
+* etc
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Main Features include
+* Save all customer information online
+* Notify customers with emails and SMS
+
+### Timeline
+* 2012 First version of a primitive system written in PHP 
+* 2016 Work began on a complete rewrite using Ruby on Rails
+* 2017 Repero is launched, offering monthly based subscription
