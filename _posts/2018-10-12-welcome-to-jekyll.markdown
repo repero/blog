@@ -5,7 +5,7 @@ date:   2018-10-12 21:47:34 +0200
 categories: repero
 ---
 
-Repero was created out of the need for a simple system to handle Repairs and customer information.
+[Repero](https://repero.me) was created out of the need for a simple system to handle Repairs and customer information.
 
 It was originally made for the needs of a Bicycle repair shop in Iceland, [Hjolasprettur](https://hjolasprettur.is) which has been using the system since 2017.
 
