@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Development update"
+date:   2019-01-10 09:30:30 +0200
+categories: jekyll update
+---
+
+These are the most noticable features being added the last months:
+
+## When searching for a client, and the name does not exist.
+* A button now appears to allow you to create a client with that name.
+* Example: You click Clients, and search for the name 'Harold' and no 'Harold' is found.
+* A button appears below '+ Harold'
+* You click the button which takes you to the New Client page, where the name 'Harold' has been filled out.
+
+
+## Added A 'virtual tour'
+* Added a '? Help' button in the nav menu to demonstrate how the system works
+* This will likely evolve to be more useful
+
+## Confirmation when an email has been delivered
+* When an email has been successfully sent to a client, the repair will get a comment like 'Email delivered'
+* Now you can be sure that the clients email address was not misspelled, and the email was delivered to his inbox
+
+## Telephones have the option to have different area codes
+* Eeach user can have 2 phones, with different area code ( different countries ) if needed.
+* If no telephone number is given, it uses the country the Shop is in
+
+## Optimize the use of the TAB key.
+* Users can now use the TAB key on the keyboard to jump faster between fields when inserting data in forms and searching for clients
+
+## The system is available in multiple languages
+* We are working on supporting more languages, for example (at the time of this writing):
+* 100% English
+* 100% French
+* 60% German
+* 80% Icelandic
+
+## Adding images to a repair
+* You can take a picture of every product you have and upload it to the cloud
