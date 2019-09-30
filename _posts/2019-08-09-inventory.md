@@ -2,7 +2,7 @@
 layout: post
 title:  "Inventory"
 date:   2019-08-09 09:30:30 +0200
-categories: jekyll update
+categories: update
 ---
 
 ## Inventory management

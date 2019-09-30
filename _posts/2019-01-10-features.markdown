@@ -2,7 +2,7 @@
 layout: post
 title:  "Development update"
 date:   2019-01-10 09:30:30 +0200
-categories: jekyll update
+categories: update
 ---
 
 These are the most noticable features being added the last months:
