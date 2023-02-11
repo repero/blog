@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog moved to main page"
+title:  "Blog moved to main page: repero.me/blog"
 date:   2021-04-20 09:30:30 +0200
 categories: update
 ---
