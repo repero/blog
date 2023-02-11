@@ -16,11 +16,11 @@
 title: Repero blog
 email: repero@repero.me
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the blog of Repero, the online repair management system
+  This is the old blog of Repero, the online repair management system. Visit https://repero.me/blog for the new blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.repero.me" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: repero
-github_username:  repero
+github_username: repero
 
 # Build settings
 markdown: kramdown
